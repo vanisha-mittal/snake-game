@@ -32,3 +32,4 @@ Built with HTML5 Canvas, CSS, and vanilla JS.
    ```bash
    git clone https://github.com/your-username/snake-game.git
 2. Open index.html in your browser.
+3. Play and enjoy!

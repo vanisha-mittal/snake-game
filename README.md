@@ -1,4 +1,5 @@
 # 🐍 Snake Game
+**Live Demo:** [Click here to view](https://yourusername.github.io/your-repo-name/)  
 
 A modern **JavaScript Snake Game** with an **arcade neon glow theme**.  
 Built with HTML5 Canvas, CSS, and vanilla JS.
